@@ -1,0 +1,200 @@
+disease,description
+Fungal infection,"It is a skin infection caused by fungi. Symptoms include itching, skin rashes, and nodal skin eruptions."
+
+Allergy,"An immune system reaction to foreign substances such as pollen, dust, or food. Causes sneezing, itching, and rashes."
+
+GERD,"Gastroesophageal reflux disease occurs when stomach acid flows back into the esophagus, causing heartburn and indigestion."
+
+Chronic cholestasis,"A liver condition where bile flow is reduced or blocked, causing yellowing of the skin and fatigue."
+
+Drug Reaction,"An adverse response to a medication, ranging from mild rashes to severe, life-threatening anaphylaxis."
+
+Peptic ulcer disease,"Sores that develop on the lining of the stomach, upper small intestine, or esophagus. Causes abdominal pain."
+
+AIDS,"Acquired Immunodeficiency Syndrome, caused by HIV, leading to a severe failure of the immune system."
+
+Diabetes,"A metabolic disorder causing high blood sugar due to insulin problems. Types include Type 1 and Type 2."
+
+Gastroenteritis,"Inflammation of the stomach and intestines, typically from an infection, causing vomiting and diarrhea."
+
+Hypertension,"A condition of consistently high blood pressure, which can lead to heart disease and stroke if untreated."
+
+Migraine,"A primary headache disorder characterized by recurrent, often severe headaches with nausea and sensitivity to light."
+
+Cervical spondylosis,"A degenerative condition of the discs and joints in the neck, causing pain and stiffness."
+
+Paroxysmal positional vertigo,"A sudden sensation of spinning, usually triggered by specific changes in head position."
+
+Jaundice,"A yellowing of the skin and eyes caused by high levels of bilirubin, often due to liver dysfunction."
+
+Malaria,"A life-threatening mosquito-borne blood disease caused by a Plasmodium parasite. Symptoms include fever and chills."
+
+Chickenpox,"A highly contagious viral infection causing an itchy, blister-like rash, fever, and fatigue."
+
+Dengue,"A mosquito-borne viral disease causing high fever, severe headache, pain, and a characteristic rash."
+
+Typhoid,"A bacterial infection spread through contaminated food or water, causing high fever and digestive distress."
+
+Hepatitis A,"A highly contagious liver infection caused by the HAV virus, spread through ingestion of contaminated substances."
+
+Hepatitis B,"A serious liver infection caused by the HBV virus, spread through blood and other body fluids."
+
+Hepatitis C,"A liver infection caused by the HCV virus, often chronic, spread primarily through contact with infected blood."
+
+Hepatitis D,"A serious liver disease that only occurs in people already infected with Hepatitis B."
+
+Hepatitis E,"A liver disease caused by the HEV virus, primarily spread through contaminated drinking water."
+
+Alcoholic hepatitis,"Liver inflammation caused by excessive consumption of alcohol."
+
+Tuberculosis,"A potentially serious infectious disease that mainly affects the lungs, caused by the bacterium Mycobacterium tuberculosis."
+
+Common Cold,"A viral infection of the upper respiratory tract, causing a runny nose, sore throat, and cough."
+
+Pneumonia,"An infection that inflames the air sacs in one or both lungs, which may fill with fluid or pus."
+
+Dimorphic hemorrhoids,"Hemorrhoids (swollen veins in the anus and lower rectum) that include both internal and external types."
+
+Heart attack,"Occurs when blood flow to a part of the heart is blocked, often by a blood clot, damaging the heart muscle."
+
+Varicose veins,"Enlarged, twisted veins, most commonly appearing in the legs and feet due to faulty valves."
+
+Hypothyroidism,"A condition where the thyroid gland doesn't produce enough thyroid hormone, leading to fatigue and weight gain."
+
+Hyperthyroidism,"Overactivity of the thyroid gland, resulting in excessive hormone production and speeding up body metabolism."
+
+Hypoglycemia,"A condition characterized by an abnormally low level of blood sugar, causing shakiness, sweating, and confusion."
+
+Osteoarthrosis,"The most common form of arthritis, involving wear-and-tear damage to a joint's cartilage."
+
+Arthritis,"Inflammation of one or more joints, causing pain and stiffness that can worsen with age."
+
+Vertigo,"A sensation of feeling off balance, as if you or your surroundings are spinning."
+
+Acne,"A skin condition that occurs when hair follicles become plugged with oil and dead skin cells, causing pimples."
+
+Urinary tract infection,"An infection in any part of the urinary system, most commonly the bladder and urethra, causing painful urination."
+
+Psoriasis,"A skin disease that causes a rash with itchy, scaly patches, most commonly on the knees, elbows, and scalp."
+
+Impetigo,"A common and highly contagious skin infection that causes red sores, mainly in infants and children."
+
+Bronchial Asthma,"A condition in which a person's airways become inflamed, narrow, and swell, producing extra mucus, making breathing difficult."
+
+Hypertensive heart disease,"Heart conditions caused by high blood pressure, including heart failure and thickened heart muscle."
+
+Rhinosinusitis,"Inflammation of the nasal passages and sinuses, causing congestion, facial pain, and mucus production."
+
+Epilepsy,"A central nervous system disorder in which brain activity becomes abnormal, causing seizures or periods of unusual behavior."
+
+Cystic Fibrosis,"A hereditary disorder causing severe damage to the lungs, digestive system, and other organs, due to thick mucus buildup."
+
+Cirrhosis,"Late stage of scarring (fibrosis) of the liver caused by many forms of liver diseases and conditions, such as hepatitis and alcoholism."
+
+Crohn's Disease,"A type of inflammatory bowel disease causing chronic inflammation of the digestive tract, leading to abdominal pain and diarrhea."
+
+Ulcerative colitis,"An inflammatory bowel disease that causes long-lasting inflammation and sores in the digestive tract."
+
+Chronic kidney disease,"A gradual loss of kidney function over time, which can lead to a buildup of waste in the body."
+
+Rheumatoid arthritis,"An autoimmune disorder that primarily affects joints, causing painful swelling and can lead to bone erosion and joint deformity."
+
+Gout,"A form of arthritis characterized by severe pain, redness, and tenderness in joints, often the big toe, due to uric acid crystal buildup."
+
+Anemia,"A condition in which you lack enough healthy red blood cells to carry adequate oxygen to your body's tissues, causing fatigue."
+
+Leukemia,"A cancer of the body's blood-forming tissues, including the bone marrow and lymphatic system."
+
+Lymphoma,"A cancer of the lymphatic system, which is part of the body's germ-fighting network."
+
+Stroke,"Occurs when the blood supply to part of the brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients."
+
+Atherosclerosis,"A condition where the arteries become narrowed and hardened due to a buildup of plaque around the artery wall."
+
+Peripheral vascular disease,"A blood circulation disorder that causes the blood vessels outside of your heart and brain to narrow, block, or spasm."
+
+Cholecystitis,"Inflammation of the gallbladder, often due to gallstones blocking the cystic duct, causing severe abdominal pain."
+
+Urolithiasis,"The process of forming stones in the kidney, bladder, and/or urethra (urinary tract)."
+
+Nephrotic syndrome,"A kidney disorder that causes your body to excrete too much protein in your urine."
+
+Schizophrenia,"A serious mental disorder in which people interpret reality abnormally, involving hallucinations, delusions, and disordered thinking."
+
+Bipolar disorder,"A mental health condition causing extreme mood swings that include emotional highs (mania) and lows (depression)."
+
+Anxiety disorder,"A mental health disorder characterized by feelings of worry, anxiety, or fear that are strong enough to interfere with daily activities."
+
+Obsessive-compulsive disorder,"A disorder characterized by unreasonable thoughts and fears (obsessions) that lead to compulsive behaviors."
+
+Depression,"A mood disorder that causes a persistent feeling of sadness and loss of interest, affecting how you feel and think."
+
+Tonic-Clonic Seizure,"A type of generalized seizure that affects the entire brain, involving stiffening of the body and repeated jerks."
+
+Conjunctivitis,"Inflammation or infection of the outer membrane of the eyeball and the inner eyelid, also known as pink eye."
+
+Otitis Media,"An infection of the air-filled space behind the eardrum (the middle ear), common in children."
+
+Tonsillitis,"Inflammation of the tonsils, two oval-shaped pads of tissue at the back of the throat, causing sore throat and difficulty swallowing."
+
+Mononucleosis,"Often called 'mono,' it is an infectious disease usually caused by the Epstein-Barr virus, leading to fatigue and fever."
+
+Influenza,"A viral infection that attacks your respiratory system — your nose, throat, and lungs — commonly called the flu."
+
+Measles,"A childhood infection caused by a virus, now preventable by vaccine. Serious for small children, characterized by a red, blotchy rash."
+
+Mumps,"A viral infection that primarily affects the salivary glands, causing puffy cheeks and a swollen jaw."
+
+Rubella,"A contagious viral infection best known by its distinctive red rash. Also called German measles."
+
+Whooping Cough,"A highly contagious respiratory tract infection, known for a severe hacking cough followed by a high-pitched intake of breath."
+
+Tetanus,"A serious bacterial infection that causes painful muscle stiffness and lockjaw, often entering the body through a wound."
+
+Meningitis,"Inflammation of the fluid and membranes (meninges) surrounding your brain and spinal cord."
+
+Parkinson's Disease,"A progressive nervous system disorder that affects movement, causing tremors, stiffness, and slowness."
+
+Multiple Sclerosis,"A disease in which the immune system eats away at the protective covering of nerves, disrupting communication between brain and body."
+
+Alzheimer's Disease,"A progressive disorder that causes brain cells to waste away (degenerate) and die, leading to continuous decline in memory and mental function."
+
+Cataracts,"A clouding of the normally clear lens of the eye, leading to blurry vision and eventual vision loss."
+
+Glaucoma,"A group of eye conditions that damage the optic nerve, often caused by abnormally high pressure in the eye."
+
+Macular Degeneration,"An eye disease that can blur the sharp, central vision needed for activities like reading, caused by damage to the macula."
+
+Chlamydia,"A common sexually transmitted infection (STI) that may not cause symptoms but can lead to serious reproductive problems."
+
+Gonorrhea,"A sexually transmitted infection (STI) that can cause infection in the genitals, rectum, and throat."
+
+Syphilis,"A bacterial infection usually spread by sexual contact that starts as a painless sore and progresses in stages."
+
+Genital Herpes,"A common sexually transmitted infection (STI) marked by genital pain, sores, and blisters caused by the herpes simplex virus."
+
+Scabies,"An itchy skin condition caused by a tiny burrowing mite called Sarcoptes scabiei, leading to intense itching."
+
+Lyme Disease,"An infectious disease caused by Borrelia bacteria, spread to humans through the bite of infected blacklegged ticks."
+
+Chickenpox,"A highly contagious viral infection causing an itchy, blister-like rash, fever, and fatigue."
+
+Shingles,"A viral infection that causes a painful rash, caused by the same virus that causes chickenpox (varicella-zoster virus)."
+
+Rabies,"A deadly virus spread to people from the saliva of infected animals, usually through a bite."
+
+Ebola,"A rare but severe, often fatal illness in humans, caused by the Ebola virus, leading to fever and bleeding."
+
+Zika Virus,"A mosquito-borne virus that typically causes mild fever and rash, but can cause severe birth defects if contracted during pregnancy."
+
+COVID-19,"A disease caused by the SARS-CoV-2 virus, leading to respiratory illness with symptoms ranging from mild to fatal."
+
+SARS,"Severe acute respiratory syndrome, a viral respiratory illness caused by a coronavirus."
+
+MERS,"Middle East Respiratory Syndrome, a viral respiratory illness caused by a coronavirus."
+
+Smallpox,"A contagious, disfiguring, and often deadly disease caused by the variola virus, now eradicated through vaccination."
+
+Polio,"A viral disease that affects the nervous system and can cause paralysis, now largely eradicated through vaccination."
+
+Cholera,"A bacterial disease causing severe diarrhea and dehydration, usually spread in contaminated water."

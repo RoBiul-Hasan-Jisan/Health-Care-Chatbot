@@ -1,0 +1,16 @@
+# Model and data files
+words.pkl
+classes.pkl
+chatbotmodel.h5
+chatbot_model.model
+MedBot_Working_Model.rar
+
+# Training scripts and data
+training_py.py
+intents.json
+Data_Analysis.ipynb
+chat.txt
+gui.py
+chatbot_py.py
+chatbot_py.py
+gui.py
